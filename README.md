@@ -39,6 +39,3 @@ The goal is to improve the accuracy and efficiency of virtual waiting time estim
 * KDE-mode clustering provides a scalable alternative with lower complexity.
 * KFEs enable rigorous benchmarking and reveal tradeoffs between bias and variance.
 
----
-
-要不要我帮你再写一个 **中文版 README 描述**，适合放在国内简历/展示场景里？
